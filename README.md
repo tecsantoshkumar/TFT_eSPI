@@ -112,6 +112,16 @@ void TFT_setWindow(uint16_t x0, uint16_t y0, uint16_t x1, uint16_t y1);
 void TFT_drawPixel(uint16_t x, uint16_t y, uint16_t color);
 void TFT_fillScreen(uint16_t color);
 ```
+
+## Future Additions
+
+ 1.DMA SPI transfer support
+ 2. Rectangle, line, circle functions
+ 3. Gradient fills
+ 4. Text rendering
+ 5. LVGL flush callback integration
+
+ 
 ## Reference 
 https://esp32.com/viewtopic.php?t=1683
 
