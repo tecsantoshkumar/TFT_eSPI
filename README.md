@@ -1,4 +1,4 @@
-# ESP-IDF TFT_eSPI (C-Only ILI9488 Driver)
+# ESP-IDF TFT_eSPI ( ILI9488 Driver)
 
 A lightweight and fast **TFT display driver for ESP32** using **ESP-IDF** written entirely in **C** — no Arduino layer, no C++.  
 This project is designed for developers who prefer a clean, native ESP-IDF implementation of the ILI9488 SPI TFT driver.
