@@ -116,10 +116,14 @@ void TFT_fillScreen(uint16_t color);
 ## Future Additions
 
  1.DMA SPI transfer support
+ 
  2. Rectangle, line, circle functions
- 3. Gradient fills
- 4. Text rendering
- 5. LVGL flush callback integration
+    
+ 4. Gradient fills
+    
+ 6. Text rendering
+    
+ 8. LVGL flush callback integration
 
  
 ## Reference 
