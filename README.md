@@ -64,7 +64,7 @@ esp32-ili9488-tft/
 
 ## ⚙️ Build Configuration
 
-### TFT_eSPI.h
+### main.c
 
 ```
 #define PIN_NUM_MISO 19
