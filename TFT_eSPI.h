@@ -1,0 +1,9 @@
+#define TFT_MISO 19
+#define TFT_MOSI 23
+#define TFT_SCLK 18
+#define TFT_CS   15
+#define TFT_DC    2
+#define TFT_RST   4
+#define SPI_FREQUENCY 40000000
+#define TFT_WIDTH  480
+#define TFT_HEIGHT 320
